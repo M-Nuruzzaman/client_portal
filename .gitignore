@@ -1,0 +1,89 @@
+# Flutter related
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+
+# Generated files
+*.lock
+*.log
+*.tmp
+*.temp
+
+# Dart specific
+*.dart.js
+*.js.deps
+*.js.tar.gz
+*.js
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+
+# Linux
+*~
+.nfs*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+*.xcodeproj
+DerivedData/
+*.hmap
+
+# Gradle
+.gradle/
+**/gradle-wrapper.jar
+gradle-wrapper.properties
+gradle-wrapper/
+
+# Local environment
+.env
+*.keystore
+*.jks
+*.pem
+
+# Crashlytics & Firebase
+crashlytics-build.properties
+firebase/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Coverage
+coverage/
+
+# Others
+*.orig
+*.bak
+*.backup
+*.swp
+*.swo
