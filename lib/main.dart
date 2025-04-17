@@ -12,8 +12,8 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'logic/cubit/video_cubit/video_cubit.dart';
-import 'logic/cubit/websocket/websocket_cubit.dart';
+import 'logic/bloc/video_bloc/video_bloc.dart';
+import 'logic/bloc/websocket_bloc/websocket_bloc.dart';
 import 'notifications/firebase/background_message_handler.dart';
 import 'notifications/firebase/on_message_handler.dart';
 

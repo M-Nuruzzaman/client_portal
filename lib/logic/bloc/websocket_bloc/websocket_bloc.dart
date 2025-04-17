@@ -1,4 +1,3 @@
-// websocket_cubit.dart
 import 'package:client_portal/core/utils/api_config.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:web_socket_channel/io.dart';

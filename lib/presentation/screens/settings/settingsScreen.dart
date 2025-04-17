@@ -1,7 +1,7 @@
 import 'package:client_portal/utils/GradiantBackground.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../../logic/cubit/video_cubit/video_cubit.dart';
+import '../../../logic/bloc/video_bloc/video_bloc.dart';
 import '../../widgets/custom_appbar.dart';
 
 class SettingsScreen extends StatefulWidget {

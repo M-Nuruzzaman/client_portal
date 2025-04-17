@@ -1,4 +1,4 @@
-part of 'video_cubit.dart';
+part of 'video_bloc.dart';
 
 class VideoState extends Equatable {
   final bool isPlaying;

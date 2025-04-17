@@ -3,7 +3,7 @@ import 'package:client_portal/utils/GradiantBackground.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../logic/cubit/websocket/websocket_cubit.dart';
+import '../../logic/bloc/websocket_bloc/websocket_bloc.dart';
 import '../../presentation/widgets/custom_appbar.dart';
 
 class MessageScreen extends StatelessWidget {

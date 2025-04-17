@@ -7,7 +7,7 @@ import 'package:flutter_advanced_drawer/flutter_advanced_drawer.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:video_player/video_player.dart';
 
-import '../../../logic/cubit/video_cubit/video_cubit.dart';
+import '../../../logic/bloc/video_bloc/video_bloc.dart';
 import '../../../utils/AppColors.dart';
 import '../../../utils/custom_page_route.dart';
 import '../../widgets/navigation_service.dart';
